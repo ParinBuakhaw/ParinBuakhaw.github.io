@@ -1,0 +1,90 @@
+*{
+    box-sizing: border-box;
+}
+.top_left{
+    width: 30%;
+    height: 52px;
+    background-color: rgb(152, 162, 156);
+    margin-left: 5%;
+}
+.photo{
+   width: 30%; 
+   height: 300px;
+   margin-left: 5%;
+   margin-top: 10px;
+   float: left;
+}
+.left{
+    width: 30%;
+    height: 600px;
+    background-color: rgb(152, 162, 156);
+    margin-left: 5%;
+    float: left;
+    margin-top: 10px;
+}
+.Head{
+    width: 63%; 
+    height: 300px;
+    background-color: rgb(192, 202, 194);
+    margin-top: 10px;
+    float: right;
+    text-align: justify;
+}
+.right{
+    width: 63%;
+    height: 600px;
+    margin-top: 10px;
+    float: right;
+}
+.logo{
+    width: 10%;
+    height: auto;
+    margin-top: 5%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+.left_dataLeft{
+    width: 50%;
+    height: auto;
+    float: left;
+    font-family: 'Montserrat';
+}
+.left_dataRight{
+    width: 50%;
+    height: auto;
+    text-align: right;
+    float: right;
+    font-family: 'Montserrat';
+}
+.right_dataLeft{
+    width: 75%;
+    height: auto;
+    float: left;
+    font-family: 'Montserrat';
+}
+.right_dataRight{
+    width: 25%;
+    height: auto;
+    text-align: right;
+    float: right;
+    font-family: 'Montserrat';
+}
+#name{
+    color: rgb(15, 15, 15);
+    font-size: 32px;
+    font-family: 'Tilt Neon';
+    margin-left: 10px;
+}
+#position{
+    margin-left: 10px;
+    font-size: 24px;
+    font-family: 'Montserrat';
+    color: azure;
+}
+#IG{
+    width: 10%;
+    height: auto;
+    margin-top: 5%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
